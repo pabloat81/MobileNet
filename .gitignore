@@ -1,0 +1,7 @@
+.svn
+*.suo
+*.user
+bin
+obj
+node_modules
+TestApp
